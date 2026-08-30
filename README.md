@@ -3,7 +3,7 @@ Das HTML-Tool "Stoic Exercise" hilft dir dabei, Gewohnheiten zu tracken oder Zie
 
 Wie du das Tool installierst:
 
-1. Öffne den Link im Safari-Browser:
+1. Öffne den Link im Safari-Browser: https://schaelj.github.io/Stoic_Exercise/
 2. Klicke auf die drei Punkte (unten rechts)
 3. klicke auf "Teilen"
 4. Klicke auf "Zum Home-Bildschirm"
